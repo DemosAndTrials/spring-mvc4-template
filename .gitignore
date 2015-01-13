@@ -1,0 +1,4 @@
+
+#ignore thumbnails created by windows
+/target/
+/.settings/*
